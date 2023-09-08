@@ -44,6 +44,7 @@ Location-Based Services:
 
 •	The system uses geolocation to connect customers with farmers in their vicinity, promoting local produce and reducing transportation costs.
 How It Works:
+
 User Registration:
 
 •	Users register with their Aadhar Number and create a secure password.
@@ -68,7 +69,6 @@ Payment and Feedback:
 
 •	Customers can make payments online, and both farmers and customers can provide feedback on the platform's performance.
 
-"Online Anndaata: Bridging Fields to Homes, Cultivating Prosperity. Our project is the fruitful union of technology and agriculture, fostering a direct connection between farmers and customers. Say goodbye to middlemen, and embrace fair prices and freshness. Join us as we nurture a healthier, wealthier, and greener tomorrow."
-
+"Online Anndaata: Connecting Farmers to Your Table, One Click at a Time. Say 'No' to middlemen, 'Yes' to fair prices and fresh produce. Harvest the future with us."
 
 
