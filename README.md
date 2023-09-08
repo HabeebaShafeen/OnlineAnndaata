@@ -2,7 +2,6 @@
 Online Anndaata - Empowering Farmers and Customers
 
 Description:
-
 Online Anndaata is a groundbreaking website developed with the mission to empower farmers and improve their income while providing customers with access to fresh produce directly from local farmers. This platform eliminates the need for middlemen, ensuring fair prices for farmers and affordable, quality products for customers. Here's an overview of how it works and its key features:
 
 Features:
@@ -48,6 +47,7 @@ Direct Delivery:
 Payment and Feedback:
 •	Customers can make payments online, and both farmers and customers can provide feedback on the platform's performance.
 
-
 "Online Anndaata: Bridging Fields to Homes, Cultivating Prosperity. Our project is the fruitful union of technology and agriculture, fostering a direct connection between farmers and customers. Say goodbye to middlemen, and embrace fair prices and freshness. Join us as we nurture a healthier, wealthier, and greener tomorrow."
+
+
 
